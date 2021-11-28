@@ -25,3 +25,5 @@ $ ./stegno --decode --png <image path> --to <file path> or --dump true
   decoding data into the image.
 
 - [ ] code cleaning.
+
+- [ ] support other image format ...
